@@ -49,7 +49,6 @@ const manualAdd = () =>{
          {isClicked ? <AddTodo /> : ''} 
          <BulkAddForm />
          <AppendTextAutomatically />
-         <RouterComponent/>
          {/* <NavContent/> */}
     </div>
   
